@@ -16,3 +16,4 @@ public partial class ResultsPage : ContentPage
         BindingContext = this;
 	}
 }
+//hbvhj
