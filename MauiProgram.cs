@@ -10,6 +10,8 @@ public static class MauiProgram
 			.UseSkiaSharp()
 			.ConfigureFonts(fonts =>
 			{
+				fonts.AddFont("DMSans-Regular.ttf", "RegularFont");
+				fonts.AddFont("DMSans-Medium.ttf", "MediumFont");
 				
 			});
 
