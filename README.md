@@ -30,7 +30,8 @@ Rahul
   ##### Final_Project:
 Backend Logic( cs files)
 About UI changes
-Documentation
+written the Documentation
+creating the bmi calculator app design and history page.
 
   
 #### Anudeep
@@ -48,7 +49,7 @@ backend logic( creation and update)
 layout for display form
 services addition and module separation
 UI changes in colors and style in resources
-Temp logic in cs files(foreigntocelsius)
+bmi logic in cs files(test bmi formula)
 
 
 
