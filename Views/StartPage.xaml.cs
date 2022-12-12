@@ -9,3 +9,4 @@ public partial class StartPage : ContentPage
         BindingContext = new StartPageViewModel(Navigation, this);
 	}
 }
+//dc
