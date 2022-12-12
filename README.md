@@ -1,20 +1,20 @@
 ---
-name: .NET MAUI - Calculator
-description: Calculator application that demonstrates Grid layout, styling, and event handling.
+name: .NET MAUI - BMI App
+description: BMI application that demonstrates Grid layout, styling, and event handling.
 page_type: sample
 languages:
 - csharp
 - xaml
 products:
 - dotnet-maui
-urlFragment: apps-calculator
+urlFragment: apps-BMI App
 ---
 
-# Calculator Sample App
+# BMI App
 
 
 
-# Calculator
+# BMI APP
 ----
 ### Team Members: 
 anil
@@ -27,26 +27,29 @@ Rahul
 #### Anil
  
   
-  ##### Assignment3:
-  1. Flyout page
-  2. History Backend Logic( cs files)
-  3. About UI changes
-  4. Documentation
+  ##### Final_Project:
+Backend Logic( cs files)
+About UI changes
+Documentation
+
   
 #### Anudeep
  
 
-  ##### Assignment3:
-1. History Frontend Logic
-2. Logic for questions were improved
-3. UI Changes calender UI and backend research work for history page
+  ##### Final_Project:
+Frontend Logic for app
+API connection
+backend logic( creation and update)
+
 
 #### Rahul
 
-  ##### Assignment3:
-  1. API Implementation and added more data to it.
-  2. History Frontend Logic
-  3. UI changes in colors and style in resources
+  ##### Final_Project:
+layout for display form
+services addition and module separation
+UI changes in colors and style in resources
+Temp logic in cs files(foreigntocelsius)
+
 
 
 ----
@@ -54,10 +57,9 @@ Rahul
  
  
 
-  #### Assignment3: 
-![](a.png)
-![](b.png)
-![](c.png)
-![](d.png)
-![](e.png)
-![](f.png)
+  #### Final_Project: 
+![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
+
