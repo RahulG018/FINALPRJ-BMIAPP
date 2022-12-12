@@ -60,10 +60,7 @@
             <Setter Property="HorizontalTextAlignment" Value="Center" />
         </Style>
 
-        <Style TargetType="Label" x:Key="BMIResultStyle">
-            <Setter Property="FontSize" Value="96" />
-            <Setter Property="TextColor" Value="{StaticResource DarkTextColor}" />
-            <Setter Property="FontFamily" Value="MediumFont" />
+        
         </Style>
 
     </Application.Resources>
