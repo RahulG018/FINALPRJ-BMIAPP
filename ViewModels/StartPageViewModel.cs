@@ -1,4 +1,4 @@
-﻿namespace MauiBMICalculator.ViewModels;
+namespace MauiBMICalculator.ViewModels;
 
 public partial class StartPageViewModel : ObservableObject
 {
