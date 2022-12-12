@@ -1,4 +1,4 @@
-﻿namespace MauiBMICalculator.Views;
+namespace MauiBMICalculator.Views;
 
 public partial class ResultsPage : ContentPage
 {
